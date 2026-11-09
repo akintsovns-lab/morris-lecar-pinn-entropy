@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Entropy-based detection of the rest-to-firing transition in Morris-Lecar dynamics reconstructed by physics-informed neural networks: code and data"
+type: software
+authors:
+  - family-names: Akintsov
+    given-names: Nikolai
+    affiliation: Nantong University
+version: 1.0.0
+date-released: 2026-10-30
+license: MIT
+keywords:
+  - Morris-Lecar model
+  - SNIC bifurcation
+  - sample entropy
+  - permutation entropy
+  - spectral entropy
+  - physics-informed neural networks
+# A DOI will be assigned when the archive is deposited on Zenodo.

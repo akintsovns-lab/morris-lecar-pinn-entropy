@@ -1,0 +1,163 @@
+{
+ "stages": {
+  "0": {
+   "status": "done",
+   "time": "2026-10-30T09:07:45+00:00",
+   "note": "hypotheses and configs fixed before computations",
+   "hashes": {
+    "configs/benchmark.yaml": "f9ae9979f9befb36c164ab481090d8e4cfe1f74ff743448246e718cdc9c40af5",
+    "configs/model.yaml": "39518347c1f4335a79b58c279f5de378605857ae35ee8907a766c729e99c975d",
+    "configs/pinn.yaml": "655c473d4af739c108c4c6208bc682dd1ba639082c452352bb460812fee2cd18",
+    "configs/reference.yaml": "fd442f1e5f2ef26715dfba6f3d1cad03930842cf295288a4ff654e32d326d278",
+    "configs/sparse.yaml": "c1b7a40aee1e7236b1f90176f617ad1508084ec8248ee5fb14e74854cc48e635",
+    "configs/hypotheses.md": "4609daeea21e807688abc11850ba883ef1230f71ce51461b9ecf69b5b34014ee"
+   }
+  },
+  "2": {
+   "status": "done",
+   "time": "2026-10-30T09:07:45+00:00",
+   "note": "SNIC confirmed; I_SN from continuation and from period scaling fit",
+   "hashes": {
+    "results/bifurcation.json": "b09f120dd2d80db897d3049e6b738fabffb6eb47f93a5b2c341c626463823d99",
+    "results/bifurcation_branch.npz": "41190f0760344ef5cb01f8bcedca342c47884d421e72144e7fb97443efc99cf1"
+   }
+  },
+  "1": {
+   "status": "done",
+   "time": "2026-10-30T09:10:55+00:00",
+   "note": "292 currents converged (142 equilibrium, 150 cycle); tolerance/method/dt_out checks passed",
+   "hashes": {
+    "results/stage1_verification.json": "6ce94e5fd5f063f146f89b27e28d98822aea017fe6835f30c6ec6d249a209eb9"
+   }
+  },
+  "3": {
+   "status": "done",
+   "time": "2026-10-30T14:14:23+00:00",
+   "note": "sparse-data protocol: scenarios A/B/C, 10 masks, leakage tests passed",
+   "hashes": {
+    "configs/benchmark.yaml": "f9ae9979f9befb36c164ab481090d8e4cfe1f74ff743448246e718cdc9c40af5",
+    "configs/model.yaml": "39518347c1f4335a79b58c279f5de378605857ae35ee8907a766c729e99c975d",
+    "configs/pinn.yaml": "655c473d4af739c108c4c6208bc682dd1ba639082c452352bb460812fee2cd18",
+    "configs/reference.yaml": "fd442f1e5f2ef26715dfba6f3d1cad03930842cf295288a4ff654e32d326d278",
+    "configs/references.yaml": "688293b8c25f1e1cbaf70696663b5c9e6ffdb3625e5f866574f70d2ab1c0be7e",
+    "configs/sparse.yaml": "c1b7a40aee1e7236b1f90176f617ad1508084ec8248ee5fb14e74854cc48e635"
+   }
+  },
+  "4": {
+   "status": "done",
+   "time": "2026-10-30T14:33:38+00:00",
+   "note": "PINN inverse reconstructions: 105 runs (A: 5 initializations; B/C: 10 masks each) + spline, data-only, no-adapt, ODE-LSQ baselines; parametric PINN 5 seeds",
+   "hashes": {
+    "results/benchmark/realizations.csv": "825837bed4c60d47c0db8efe02f46157e8c93262599d39595d044d4de8cd7028",
+    "results/manuscript_numbers.json": "d23835f5a1b234441d04540f538f866509eb9c8f42494234186dee233d79bcc1"
+   }
+  },
+  "5": {
+   "status": "done",
+   "time": "2026-10-30T14:14:23+00:00",
+   "note": "entropies of reference and all reconstructions",
+   "hashes": {
+    "results/entropy/reference_entropy.json": "054fdd37988f404a109d8f4bbe31005bc4b782f34147efe39b89bdd4c757f88e"
+   }
+  },
+  "6": {
+   "status": "done",
+   "time": "2026-10-30T14:14:23+00:00",
+   "note": "benchmark + hypotheses: H1 inconclusive, H2 refuted, H3 confirmed, H4 inconclusive, H5 confirmed",
+   "hashes": {
+    "results/benchmark/benchmark_summary.json": "c3bb6d51f120c7e2e78af5c7819a074f584965fe0a631841569c65284f9fb753",
+    "results/benchmark/explore_floor.json": "02d018c869ea4aef6becedc9eba628ab091716629a361ce849b1a9f9c1ef086e",
+    "results/benchmark/realizations.json": "de4459e22edfc90866850ff4977859f19c83a7811daa2deb2bda47962d8c8e47"
+   }
+  },
+  "manuscript": {
+   "status": "done",
+   "time": "2026-10-30T14:14:23+00:00",
+   "note": "built from results via build.py",
+   "hashes": {
+    "manuscript/Entropy_manuscript.docx": "71c8a388f4dc7b9783556d93664131b74ed5ad9b6ad6e1d6cc8ec3d5c702ca90",
+    "manuscript/Entropy_manuscript.md": "6c65ae9bbb34aacc8cd69ee07bad0978a3ce13b8d3bd43a8c6fa27ad423f5dd3",
+    "manuscript/Entropy_manuscript.tex": "c5e65500a5239ad4eba865bece5fba729b8f18dbb8c9b4cc9fa8c590d64ae573",
+    "manuscript/highlights_and_reviewers.md": "92f5514dc6a44d19630aab3c0eacb36ef46f3a68cb90b37004605387c8573818"
+   }
+  },
+  "audit": {
+   "status": "done",
+   "time": "2026-10-30T14:14:23+00:00",
+   "note": "audit passed (cycle 3)",
+   "hashes": {
+    "results/audit_report.json": "65ef55535e479fd491d828587c827904b853001cc57adcebf176d81103fa6d6a"
+   }
+  }
+ },
+ "version_log": [
+  {
+   "time": "2026-10-30T09:07:45+00:00",
+   "stage": "0",
+   "status": "done",
+   "note": "hypotheses and configs fixed before computations"
+  },
+  {
+   "time": "2026-10-30T09:07:45+00:00",
+   "stage": "2",
+   "status": "done",
+   "note": "SNIC confirmed; I_SN from continuation and from period scaling fit"
+  },
+  {
+   "time": "2026-10-30T09:07:45+00:00",
+   "stage": "1",
+   "status": "running",
+   "note": "reference sweep 292 currents in progress"
+  },
+  {
+   "time": "2026-10-30T09:10:55+00:00",
+   "stage": "1",
+   "status": "done",
+   "note": "292 currents converged (142 equilibrium, 150 cycle); tolerance/method/dt_out checks passed"
+  },
+  {
+   "time": "2026-10-30T14:14:23+00:00",
+   "stage": "3",
+   "status": "done",
+   "note": "sparse-data protocol: scenarios A/B/C, 10 masks, leakage tests passed"
+  },
+  {
+   "time": "2026-10-30T14:14:23+00:00",
+   "stage": "4",
+   "status": "done",
+   "note": "PINN: 101 main runs (A 1 init so far, B/C 10 realizations), ablations 25, ODE-LSQ 10, parametric 5 seeds; A inits 1-4 running"
+  },
+  {
+   "time": "2026-10-30T14:14:23+00:00",
+   "stage": "5",
+   "status": "done",
+   "note": "entropies of reference and all reconstructions"
+  },
+  {
+   "time": "2026-10-30T14:14:23+00:00",
+   "stage": "6",
+   "status": "done",
+   "note": "benchmark + hypotheses: H1 inconclusive, H2 refuted, H3 confirmed, H4 inconclusive, H5 confirmed"
+  },
+  {
+   "time": "2026-10-30T14:14:23+00:00",
+   "stage": "manuscript",
+   "status": "done",
+   "note": "built from results via build.py"
+  },
+  {
+   "time": "2026-10-30T14:14:23+00:00",
+   "stage": "audit",
+   "status": "done",
+   "note": "audit passed (cycle 3)"
+  },
+  {
+   "time": "2026-10-30T14:33:38+00:00",
+   "stage": "4",
+   "status": "done",
+   "note": "PINN inverse reconstructions: 105 runs (A: 5 initializations; B/C: 10 masks each) + spline, data-only, no-adapt, ODE-LSQ baselines; parametric PINN 5 seeds"
+  }
+ ],
+ "current_stage": "4",
+ "updated": "2026-10-30T14:33:38+00:00"
+}
