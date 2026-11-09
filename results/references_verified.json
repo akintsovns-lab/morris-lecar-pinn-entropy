@@ -1,0 +1,1968 @@
+{
+ "HH1952": {
+  "source": "crossref",
+  "doi": "10.1113/jphysiol.1952.sp004764",
+  "title": "A quantitative description of membrane current and its application to conduction and excitation in nerve",
+  "authors": [
+   [
+    "Hodgkin",
+    "A. L."
+   ],
+   [
+    "Huxley",
+    "A. F."
+   ]
+  ],
+  "year": 1952,
+  "container": "The Journal of Physiology",
+  "short": "The Journal of Physiology",
+  "volume": "117",
+  "issue": "4",
+  "page": "500-544",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "verified": true
+ },
+ "ML1981": {
+  "source": "crossref",
+  "doi": "10.1016/s0006-3495(81)84782-0",
+  "title": "Voltage oscillations in the barnacle giant muscle fiber",
+  "authors": [
+   [
+    "Morris",
+    "C."
+   ],
+   [
+    "Lecar",
+    "H."
+   ]
+  ],
+  "year": 1981,
+  "container": "Biophysical Journal",
+  "short": "Biophysical Journal",
+  "volume": "35",
+  "issue": "1",
+  "page": "193-213",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Izh2007": {
+  "source": "crossref",
+  "doi": "10.7551/mitpress/2526.001.0001",
+  "title": "Dynamical Systems in Neuroscience",
+  "authors": [
+   [
+    "Izhikevich",
+    "Eugene M."
+   ]
+  ],
+  "year": 2006,
+  "container": "",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "monograph",
+  "publisher": "The MIT Press",
+  "verified": true
+ },
+ "Tsumoto2006": {
+  "source": "crossref",
+  "doi": "10.1016/j.neucom.2005.03.006",
+  "title": "Bifurcations in Morris–Lecar neuron model",
+  "authors": [
+   [
+    "Tsumoto",
+    "Kunichika"
+   ],
+   [
+    "Kitajima",
+    "Hiroyuki"
+   ],
+   [
+    "Yoshinaga",
+    "Tetsuya"
+   ],
+   [
+    "Aihara",
+    "Kazuyuki"
+   ],
+   [
+    "Kawakami",
+    "Hiroshi"
+   ]
+  ],
+  "year": 2006,
+  "container": "Neurocomputing",
+  "short": "Neurocomputing",
+  "volume": "69",
+  "issue": "4-6",
+  "page": "293-316",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "ET2010": {
+  "source": "crossref",
+  "doi": "10.1007/978-0-387-87708-2",
+  "title": "Mathematical Foundations of Neuroscience",
+  "authors": [
+   [
+    "Ermentrout",
+    "G. Bard"
+   ],
+   [
+    "Terman",
+    "David H."
+   ]
+  ],
+  "year": 2010,
+  "container": "Interdisciplinary Applied Mathematics",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "book",
+  "publisher": "Springer New York",
+  "verified": true
+ },
+ "Kuz2004": {
+  "source": "crossref",
+  "doi": "10.1007/978-1-4757-3978-7",
+  "title": "Elements of Applied Bifurcation Theory",
+  "authors": [
+   [
+    "Kuznetsov",
+    "Yuri A."
+   ]
+  ],
+  "year": 2004,
+  "container": "Applied Mathematical Sciences",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "book",
+  "publisher": "Springer New York",
+  "verified": true
+ },
+ "Hodgkin1948": {
+  "source": "crossref",
+  "doi": "10.1113/jphysiol.1948.sp004260",
+  "title": "The local electric changes associated with repetitive action in a non‐medullated axon",
+  "authors": [
+   [
+    "Hodgkin",
+    "A. L."
+   ]
+  ],
+  "year": 1948,
+  "container": "The Journal of Physiology",
+  "short": "The Journal of Physiology",
+  "volume": "107",
+  "issue": "2",
+  "page": "165-181",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "verified": true
+ },
+ "Ermentrout1996": {
+  "source": "crossref",
+  "doi": "10.1162/neco.1996.8.5.979",
+  "title": "Type I Membranes, Phase Resetting Curves, and Synchrony",
+  "authors": [
+   [
+    "Ermentrout",
+    "Bard"
+   ]
+  ],
+  "year": 1996,
+  "container": "Neural Computation",
+  "short": "Neural Computation",
+  "volume": "8",
+  "issue": "5",
+  "page": "979-1001",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "MIT Press",
+  "verified": true
+ },
+ "Prescott2008": {
+  "source": "crossref",
+  "doi": "10.1371/journal.pcbi.1000198",
+  "title": "Biophysical Basis for Three Distinct Dynamical Mechanisms of Action Potential Initiation",
+  "authors": [
+   [
+    "Prescott",
+    "Steven A."
+   ],
+   [
+    "De Koninck",
+    "Yves"
+   ],
+   [
+    "Sejnowski",
+    "Terrence J."
+   ]
+  ],
+  "year": 2008,
+  "container": "PLoS Computational Biology",
+  "short": "PLoS Comput Biol",
+  "volume": "4",
+  "issue": "10",
+  "page": "e1000198",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Public Library of Science (PLoS)",
+  "verified": true
+ },
+ "Strogatz": {
+  "source": "crossref",
+  "doi": "10.1201/9780429492563",
+  "title": "Nonlinear Dynamics and Chaos",
+  "authors": [
+   [
+    "Strogatz",
+    "Steven H."
+   ]
+  ],
+  "year": 2018,
+  "container": "",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "book",
+  "publisher": "CRC Press",
+  "verified": true
+ },
+ "RM2000": {
+  "source": "crossref",
+  "doi": "10.1152/ajpheart.2000.278.6.h2039",
+  "title": "Physiological time-series analysis  using approximate entropy and sample entropy",
+  "authors": [
+   [
+    "Richman",
+    "Joshua S."
+   ],
+   [
+    "Moorman",
+    "J. Randall"
+   ]
+  ],
+  "year": 2000,
+  "container": "American Journal of Physiology-Heart and Circulatory Physiology",
+  "short": "American Journal of Physiology-Heart and Circulatory Physiology",
+  "volume": "278",
+  "issue": "6",
+  "page": "H2039-H2049",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "American Physiological Society",
+  "verified": true
+ },
+ "Pincus1991": {
+  "source": "crossref",
+  "doi": "10.1073/pnas.88.6.2297",
+  "title": "Approximate entropy as a measure of system complexity.",
+  "authors": [
+   [
+    "Pincus",
+    "S M"
+   ]
+  ],
+  "year": 1991,
+  "container": "Proceedings of the National Academy of Sciences",
+  "short": "Proc. Natl. Acad. Sci. U.S.A.",
+  "volume": "88",
+  "issue": "6",
+  "page": "2297-2301",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "National Academy of Sciences",
+  "verified": true
+ },
+ "BP2002": {
+  "source": "crossref",
+  "doi": "10.1103/physrevlett.88.174102",
+  "title": "Permutation Entropy: A Natural Complexity Measure for Time Series",
+  "authors": [
+   [
+    "Bandt",
+    "Christoph"
+   ],
+   [
+    "Pompe",
+    "Bernd"
+   ]
+  ],
+  "year": 2002,
+  "container": "Physical Review Letters",
+  "short": "Phys. Rev. Lett.",
+  "volume": "88",
+  "issue": "17",
+  "page": "",
+  "article_number": "174102",
+  "type": "journal-article",
+  "publisher": "American Physical Society (APS)",
+  "verified": true
+ },
+ "Fad2013": {
+  "source": "crossref",
+  "doi": "10.1103/physreve.87.022911",
+  "title": "Weighted-permutation entropy: A complexity measure for time series incorporating amplitude information",
+  "authors": [
+   [
+    "Fadlallah",
+    "Bilal"
+   ],
+   [
+    "Chen",
+    "Badong"
+   ],
+   [
+    "Keil",
+    "Andreas"
+   ],
+   [
+    "Príncipe",
+    "José"
+   ]
+  ],
+  "year": 2013,
+  "container": "Physical Review E",
+  "short": "Phys. Rev. E",
+  "volume": "87",
+  "issue": "2",
+  "page": "",
+  "article_number": "022911",
+  "type": "journal-article",
+  "publisher": "American Physical Society (APS)",
+  "verified": true
+ },
+ "Inouye1991": {
+  "source": "crossref",
+  "doi": "10.1016/0013-4694(91)90138-t",
+  "title": "Quantification of EEG irregularity by use of the entropy of the power spectrum",
+  "authors": [
+   [
+    "Inouye",
+    "T."
+   ],
+   [
+    "Shinosaki",
+    "K."
+   ],
+   [
+    "Sakamoto",
+    "H."
+   ],
+   [
+    "Toi",
+    "S."
+   ],
+   [
+    "Ukai",
+    "S."
+   ],
+   [
+    "Iyama",
+    "A."
+   ],
+   [
+    "Katsuda",
+    "Y."
+   ],
+   [
+    "Hirano",
+    "M."
+   ]
+  ],
+  "year": 1991,
+  "container": "Electroencephalography and Clinical Neurophysiology",
+  "short": "Electroencephalography and Clinical Neurophysiology",
+  "volume": "79",
+  "issue": "3",
+  "page": "204-210",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Zanin2012": {
+  "source": "crossref",
+  "doi": "10.3390/e14081553",
+  "title": "Permutation Entropy and Its Main Biomedical and Econophysics Applications: A Review",
+  "authors": [
+   [
+    "Zanin",
+    "Massimiliano"
+   ],
+   [
+    "Zunino",
+    "Luciano"
+   ],
+   [
+    "Rosso",
+    "Osvaldo A."
+   ],
+   [
+    "Papo",
+    "David"
+   ]
+  ],
+  "year": 2012,
+  "container": "Entropy",
+  "short": "Entropy",
+  "volume": "14",
+  "issue": "8",
+  "page": "1553-1577",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "verified": true
+ },
+ "Riedl2013": {
+  "source": "crossref",
+  "doi": "10.1140/epjst/e2013-01862-7",
+  "title": "Practical considerations of permutation entropy",
+  "authors": [
+   [
+    "Riedl",
+    "M."
+   ],
+   [
+    "Müller",
+    "A."
+   ],
+   [
+    "Wessel",
+    "N."
+   ]
+  ],
+  "year": 2013,
+  "container": "The European Physical Journal Special Topics",
+  "short": "Eur. Phys. J. Spec. Top.",
+  "volume": "222",
+  "issue": "2",
+  "page": "249-262",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Cao2004": {
+  "source": "crossref",
+  "doi": "10.1103/physreve.70.046217",
+  "title": "Detecting dynamical changes in time series using the permutation entropy",
+  "authors": [
+   [
+    "Cao",
+    "Yinhe"
+   ],
+   [
+    "Tung",
+    "Wen-wen"
+   ],
+   [
+    "Gao",
+    "J. B."
+   ],
+   [
+    "Protopopescu",
+    "V. A."
+   ],
+   [
+    "Hively",
+    "L. M."
+   ]
+  ],
+  "year": 2004,
+  "container": "Physical Review E",
+  "short": "Phys. Rev. E",
+  "volume": "70",
+  "issue": "4",
+  "page": "",
+  "article_number": "046217",
+  "type": "journal-article",
+  "publisher": "American Physical Society (APS)",
+  "verified": true
+ },
+ "Rosso2007": {
+  "source": "crossref",
+  "doi": "10.1103/physrevlett.99.154102",
+  "title": "Distinguishing Noise from Chaos",
+  "authors": [
+   [
+    "Rosso",
+    "O. A."
+   ],
+   [
+    "Larrondo",
+    "H. A."
+   ],
+   [
+    "Martin",
+    "M. T."
+   ],
+   [
+    "Plastino",
+    "A."
+   ],
+   [
+    "Fuentes",
+    "M. A."
+   ]
+  ],
+  "year": 2007,
+  "container": "Physical Review Letters",
+  "short": "Phys. Rev. Lett.",
+  "volume": "99",
+  "issue": "15",
+  "page": "",
+  "article_number": "154102",
+  "type": "journal-article",
+  "publisher": "American Physical Society (APS)",
+  "verified": true
+ },
+ "Scheffer2009": {
+  "source": "crossref",
+  "doi": "10.1038/nature08227",
+  "title": "Early-warning signals for critical transitions",
+  "authors": [
+   [
+    "Scheffer",
+    "Marten"
+   ],
+   [
+    "Bascompte",
+    "Jordi"
+   ],
+   [
+    "Brock",
+    "William A."
+   ],
+   [
+    "Brovkin",
+    "Victor"
+   ],
+   [
+    "Carpenter",
+    "Stephen R."
+   ],
+   [
+    "Dakos",
+    "Vasilis"
+   ],
+   [
+    "Held",
+    "Hermann"
+   ],
+   [
+    "van Nes",
+    "Egbert H."
+   ],
+   [
+    "Rietkerk",
+    "Max"
+   ],
+   [
+    "Sugihara",
+    "George"
+   ]
+  ],
+  "year": 2009,
+  "container": "Nature",
+  "short": "Nature",
+  "volume": "461",
+  "issue": "7260",
+  "page": "53-59",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Shannon1948": {
+  "source": "crossref",
+  "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+  "title": "A Mathematical Theory of Communication",
+  "authors": [
+   [
+    "Shannon",
+    "C. E."
+   ]
+  ],
+  "year": 1948,
+  "container": "Bell System Technical Journal",
+  "short": "",
+  "volume": "27",
+  "issue": "3",
+  "page": "379-423",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "verified": true
+ },
+ "Raissi2019": {
+  "source": "crossref",
+  "doi": "10.1016/j.jcp.2018.10.045",
+  "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+  "authors": [
+   [
+    "Raissi",
+    "M."
+   ],
+   [
+    "Perdikaris",
+    "P."
+   ],
+   [
+    "Karniadakis",
+    "G.E."
+   ]
+  ],
+  "year": 2019,
+  "container": "Journal of Computational Physics",
+  "short": "Journal of Computational Physics",
+  "volume": "378",
+  "issue": "",
+  "page": "686-707",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Karn2021": {
+  "source": "crossref",
+  "doi": "10.1038/s42254-021-00314-5",
+  "title": "Physics-informed machine learning",
+  "authors": [
+   [
+    "Karniadakis",
+    "George Em"
+   ],
+   [
+    "Kevrekidis",
+    "Ioannis G."
+   ],
+   [
+    "Lu",
+    "Lu"
+   ],
+   [
+    "Perdikaris",
+    "Paris"
+   ],
+   [
+    "Wang",
+    "Sifan"
+   ],
+   [
+    "Yang",
+    "Liu"
+   ]
+  ],
+  "year": 2021,
+  "container": "Nature Reviews Physics",
+  "short": "Nat Rev Phys",
+  "volume": "3",
+  "issue": "6",
+  "page": "422-440",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Ferrante2022": {
+  "source": "crossref",
+  "doi": "10.1109/embc48229.2022.9871971",
+  "title": "Physically constrained neural networks for inferring physiological system models",
+  "authors": [
+   [
+    "Ferrante",
+    "Matteo"
+   ],
+   [
+    "Duggento",
+    "Andrea"
+   ],
+   [
+    "Toschi",
+    "Nicola"
+   ]
+  ],
+  "year": 2022,
+  "container": "2022 44th Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "148-151",
+  "article_number": "",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "verified": true
+ },
+ "Grossmann2024": {
+  "source": "crossref",
+  "doi": "10.1093/imamat/hxae011",
+  "title": "Can physics-informed neural networks beat the finite element method?",
+  "authors": [
+   [
+    "Grossmann",
+    "Tamara G"
+   ],
+   [
+    "Komorowska",
+    "Urszula Julia"
+   ],
+   [
+    "Latz",
+    "Jonas"
+   ],
+   [
+    "Schönlieb",
+    "Carola-Bibiane"
+   ]
+  ],
+  "year": 2024,
+  "container": "IMA Journal of Applied Mathematics",
+  "short": "",
+  "volume": "89",
+  "issue": "1",
+  "page": "143-174",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Oxford University Press (OUP)",
+  "verified": true
+ },
+ "WSP2024": {
+  "source": "crossref",
+  "doi": "10.1016/j.cma.2024.116813",
+  "title": "Respecting causality for training physics-informed neural networks",
+  "authors": [
+   [
+    "Wang",
+    "Sifan"
+   ],
+   [
+    "Sankaran",
+    "Shyam"
+   ],
+   [
+    "Perdikaris",
+    "Paris"
+   ]
+  ],
+  "year": 2024,
+  "container": "Computer Methods in Applied Mechanics and Engineering",
+  "short": "Computer Methods in Applied Mechanics and Engineering",
+  "volume": "421",
+  "issue": "",
+  "page": "116813",
+  "article_number": "116813",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "WTP2021": {
+  "source": "crossref",
+  "doi": "10.1137/20m1318043",
+  "title": "Understanding and Mitigating Gradient Flow Pathologies in Physics-Informed Neural Networks",
+  "authors": [
+   [
+    "Wang",
+    "Sifan"
+   ],
+   [
+    "Teng",
+    "Yujun"
+   ],
+   [
+    "Perdikaris",
+    "Paris"
+   ]
+  ],
+  "year": 2021,
+  "container": "SIAM Journal on Scientific Computing",
+  "short": "SIAM J. Sci. Comput.",
+  "volume": "43",
+  "issue": "5",
+  "page": "A3055-A3081",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+  "verified": true
+ },
+ "Yang2021": {
+  "source": "crossref",
+  "doi": "10.1016/j.jcp.2020.109913",
+  "title": "B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data",
+  "authors": [
+   [
+    "Yang",
+    "Liu"
+   ],
+   [
+    "Meng",
+    "Xuhui"
+   ],
+   [
+    "Karniadakis",
+    "George Em"
+   ]
+  ],
+  "year": 2021,
+  "container": "Journal of Computational Physics",
+  "short": "Journal of Computational Physics",
+  "volume": "425",
+  "issue": "",
+  "page": "109913",
+  "article_number": "109913",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Wu2023": {
+  "source": "crossref",
+  "doi": "10.1016/j.cma.2022.115671",
+  "title": "A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks",
+  "authors": [
+   [
+    "Wu",
+    "Chenxi"
+   ],
+   [
+    "Zhu",
+    "Min"
+   ],
+   [
+    "Tan",
+    "Qinyang"
+   ],
+   [
+    "Kartha",
+    "Yadhu"
+   ],
+   [
+    "Lu",
+    "Lu"
+   ]
+  ],
+  "year": 2023,
+  "container": "Computer Methods in Applied Mechanics and Engineering",
+  "short": "Computer Methods in Applied Mechanics and Engineering",
+  "volume": "403",
+  "issue": "",
+  "page": "115671",
+  "article_number": "115671",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Krish2021": {
+  "source": "datacite",
+  "doi": "10.48550/arxiv.2109.01050",
+  "title": "Characterizing possible failure modes in physics-informed neural networks",
+  "authors": [
+   [
+    "Krishnapriyan",
+    "Aditi S."
+   ],
+   [
+    "Gholami",
+    "Amir"
+   ],
+   [
+    "Zhe",
+    "Shandian"
+   ],
+   [
+    "Kirby",
+    "Robert M."
+   ],
+   [
+    "Mahoney",
+    "Michael W."
+   ]
+  ],
+  "year": 2021,
+  "container": "arXiv",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "Text",
+  "publisher": "arXiv",
+  "verified": true
+ },
+ "Jagtap2020": {
+  "source": "crossref",
+  "doi": "10.4208/cicp.oa-2020-0164",
+  "title": "Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations",
+  "authors": [
+   [
+    "D. Jagtap",
+    "Ameya"
+   ],
+   [
+    "Em Karniadakis",
+    "George"
+   ]
+  ],
+  "year": 2020,
+  "container": "Communications in Computational Physics",
+  "short": "",
+  "volume": "28",
+  "issue": "5",
+  "page": "2002-2041",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Global Science Press",
+  "verified": true
+ },
+ "Moseley2023": {
+  "source": "crossref",
+  "doi": "10.1007/s10444-023-10065-9",
+  "title": "Finite basis physics-informed neural networks (FBPINNs): a scalable domain decomposition approach for solving differential equations",
+  "authors": [
+   [
+    "Moseley",
+    "Ben"
+   ],
+   [
+    "Markham",
+    "Andrew"
+   ],
+   [
+    "Nissen-Meyer",
+    "Tarje"
+   ]
+  ],
+  "year": 2023,
+  "container": "Advances in Computational Mathematics",
+  "short": "Adv Comput Math",
+  "volume": "49",
+  "issue": "4",
+  "page": "",
+  "article_number": "62",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Xu2020": {
+  "source": "crossref",
+  "doi": "10.4208/cicp.oa-2020-0085",
+  "title": "Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks",
+  "authors": [
+   [
+    "John Xu",
+    "Zhi-Qin"
+   ],
+   [
+    "Zhang",
+    "Yaoyu"
+   ],
+   [
+    "Luo",
+    "Tao"
+   ],
+   [
+    "Xiao",
+    "Yanyang"
+   ],
+   [
+    "Ma",
+    "Zheng"
+   ]
+  ],
+  "year": 2020,
+  "container": "Communications in Computational Physics",
+  "short": "",
+  "volume": "28",
+  "issue": "5",
+  "page": "1746-1767",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Global Science Press",
+  "verified": true
+ },
+ "Brunton2016": {
+  "source": "crossref",
+  "doi": "10.1073/pnas.1517384113",
+  "title": "Discovering governing equations from data by sparse identification of nonlinear dynamical systems",
+  "authors": [
+   [
+    "Brunton",
+    "Steven L."
+   ],
+   [
+    "Proctor",
+    "Joshua L."
+   ],
+   [
+    "Kutz",
+    "J. Nathan"
+   ]
+  ],
+  "year": 2016,
+  "container": "Proceedings of the National Academy of Sciences",
+  "short": "Proc. Natl. Acad. Sci. U.S.A.",
+  "volume": "113",
+  "issue": "15",
+  "page": "3932-3937",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "National Academy of Sciences",
+  "verified": true
+ },
+ "Virtanen2020": {
+  "source": "crossref",
+  "doi": "10.1038/s41592-019-0686-2",
+  "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+  "authors": [
+   [
+    "Virtanen",
+    "Pauli"
+   ],
+   [
+    "Gommers",
+    "Ralf"
+   ],
+   [
+    "Oliphant",
+    "Travis E."
+   ],
+   [
+    "Haberland",
+    "Matt"
+   ],
+   [
+    "Reddy",
+    "Tyler"
+   ],
+   [
+    "Cournapeau",
+    "David"
+   ],
+   [
+    "Burovski",
+    "Evgeni"
+   ],
+   [
+    "Peterson",
+    "Pearu"
+   ],
+   [
+    "Weckesser",
+    "Warren"
+   ],
+   [
+    "Bright",
+    "Jonathan"
+   ],
+   [
+    "van der Walt",
+    "Stéfan J."
+   ],
+   [
+    "Brett",
+    "Matthew"
+   ],
+   [
+    "Wilson",
+    "Joshua"
+   ],
+   [
+    "Millman",
+    "K. Jarrod"
+   ],
+   [
+    "Mayorov",
+    "Nikolay"
+   ],
+   [
+    "Nelson",
+    "Andrew R. J."
+   ],
+   [
+    "Jones",
+    "Eric"
+   ],
+   [
+    "Kern",
+    "Robert"
+   ],
+   [
+    "Larson",
+    "Eric"
+   ],
+   [
+    "Carey",
+    "C J"
+   ],
+   [
+    "Polat",
+    "İlhan"
+   ],
+   [
+    "Feng",
+    "Yu"
+   ],
+   [
+    "Moore",
+    "Eric W."
+   ],
+   [
+    "VanderPlas",
+    "Jake"
+   ],
+   [
+    "Laxalde",
+    "Denis"
+   ],
+   [
+    "Perktold",
+    "Josef"
+   ],
+   [
+    "Cimrman",
+    "Robert"
+   ],
+   [
+    "Henriksen",
+    "Ian"
+   ],
+   [
+    "Quintero",
+    "E. A."
+   ],
+   [
+    "Harris",
+    "Charles R."
+   ],
+   [
+    "Archibald",
+    "Anne M."
+   ],
+   [
+    "Ribeiro",
+    "Antônio H."
+   ],
+   [
+    "Pedregosa",
+    "Fabian"
+   ],
+   [
+    "van Mulbregt",
+    "Paul"
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "Vijaykumar",
+    "Aditya"
+   ],
+   [
+    "Bardelli",
+    "Alessandro Pietro"
+   ],
+   [
+    "Rothberg",
+    "Alex"
+   ],
+   [
+    "Hilboll",
+    "Andreas"
+   ],
+   [
+    "Kloeckner",
+    "Andreas"
+   ],
+   [
+    "Scopatz",
+    "Anthony"
+   ],
+   [
+    "Lee",
+    "Antony"
+   ],
+   [
+    "Rokem",
+    "Ariel"
+   ],
+   [
+    "Woods",
+    "C. Nathan"
+   ],
+   [
+    "Fulton",
+    "Chad"
+   ],
+   [
+    "Masson",
+    "Charles"
+   ],
+   [
+    "Häggström",
+    "Christian"
+   ],
+   [
+    "Fitzgerald",
+    "Clark"
+   ],
+   [
+    "Nicholson",
+    "David A."
+   ],
+   [
+    "Hagen",
+    "David R."
+   ],
+   [
+    "Pasechnik",
+    "Dmitrii V."
+   ],
+   [
+    "Olivetti",
+    "Emanuele"
+   ],
+   [
+    "Martin",
+    "Eric"
+   ],
+   [
+    "Wieser",
+    "Eric"
+   ],
+   [
+    "Silva",
+    "Fabrice"
+   ],
+   [
+    "Lenders",
+    "Felix"
+   ],
+   [
+    "Wilhelm",
+    "Florian"
+   ],
+   [
+    "Young",
+    "G."
+   ],
+   [
+    "Price",
+    "Gavin A."
+   ],
+   [
+    "Ingold",
+    "Gert-Ludwig"
+   ],
+   [
+    "Allen",
+    "Gregory E."
+   ],
+   [
+    "Lee",
+    "Gregory R."
+   ],
+   [
+    "Audren",
+    "Hervé"
+   ],
+   [
+    "Probst",
+    "Irvin"
+   ],
+   [
+    "Dietrich",
+    "Jörg P."
+   ],
+   [
+    "Silterra",
+    "Jacob"
+   ],
+   [
+    "Webber",
+    "James T"
+   ],
+   [
+    "Slavič",
+    "Janko"
+   ],
+   [
+    "Nothman",
+    "Joel"
+   ],
+   [
+    "Buchner",
+    "Johannes"
+   ],
+   [
+    "Kulick",
+    "Johannes"
+   ],
+   [
+    "Schönberger",
+    "Johannes L."
+   ],
+   [
+    "de Miranda Cardoso",
+    "José Vinícius"
+   ],
+   [
+    "Reimer",
+    "Joscha"
+   ],
+   [
+    "Harrington",
+    "Joseph"
+   ],
+   [
+    "Rodríguez",
+    "Juan Luis Cano"
+   ],
+   [
+    "Nunez-Iglesias",
+    "Juan"
+   ],
+   [
+    "Kuczynski",
+    "Justin"
+   ],
+   [
+    "Tritz",
+    "Kevin"
+   ],
+   [
+    "Thoma",
+    "Martin"
+   ],
+   [
+    "Newville",
+    "Matthew"
+   ],
+   [
+    "Kümmerer",
+    "Matthias"
+   ],
+   [
+    "Bolingbroke",
+    "Maximilian"
+   ],
+   [
+    "Tartre",
+    "Michael"
+   ],
+   [
+    "Pak",
+    "Mikhail"
+   ],
+   [
+    "Smith",
+    "Nathaniel J."
+   ],
+   [
+    "Nowaczyk",
+    "Nikolai"
+   ],
+   [
+    "Shebanov",
+    "Nikolay"
+   ],
+   [
+    "Pavlyk",
+    "Oleksandr"
+   ],
+   [
+    "Brodtkorb",
+    "Per A."
+   ],
+   [
+    "Lee",
+    "Perry"
+   ],
+   [
+    "McGibbon",
+    "Robert T."
+   ],
+   [
+    "Feldbauer",
+    "Roman"
+   ],
+   [
+    "Lewis",
+    "Sam"
+   ],
+   [
+    "Tygier",
+    "Sam"
+   ],
+   [
+    "Sievert",
+    "Scott"
+   ],
+   [
+    "Vigna",
+    "Sebastiano"
+   ],
+   [
+    "Peterson",
+    "Stefan"
+   ],
+   [
+    "More",
+    "Surhud"
+   ],
+   [
+    "Pudlik",
+    "Tadeusz"
+   ],
+   [
+    "Oshima",
+    "Takuya"
+   ],
+   [
+    "Pingel",
+    "Thomas J."
+   ],
+   [
+    "Robitaille",
+    "Thomas P."
+   ],
+   [
+    "Spura",
+    "Thomas"
+   ],
+   [
+    "Jones",
+    "Thouis R."
+   ],
+   [
+    "Cera",
+    "Tim"
+   ],
+   [
+    "Leslie",
+    "Tim"
+   ],
+   [
+    "Zito",
+    "Tiziano"
+   ],
+   [
+    "Krauss",
+    "Tom"
+   ],
+   [
+    "Upadhyay",
+    "Utkarsh"
+   ],
+   [
+    "Halchenko",
+    "Yaroslav O."
+   ],
+   [
+    "Vázquez-Baeza",
+    "Yoshiki"
+   ]
+  ],
+  "year": 2020,
+  "container": "Nature Methods",
+  "short": "Nat Methods",
+  "volume": "17",
+  "issue": "3",
+  "page": "261-272",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Harris2020": {
+  "source": "crossref",
+  "doi": "10.1038/s41586-020-2649-2",
+  "title": "Array programming with NumPy",
+  "authors": [
+   [
+    "Harris",
+    "Charles R."
+   ],
+   [
+    "Millman",
+    "K. Jarrod"
+   ],
+   [
+    "van der Walt",
+    "Stéfan J."
+   ],
+   [
+    "Gommers",
+    "Ralf"
+   ],
+   [
+    "Virtanen",
+    "Pauli"
+   ],
+   [
+    "Cournapeau",
+    "David"
+   ],
+   [
+    "Wieser",
+    "Eric"
+   ],
+   [
+    "Taylor",
+    "Julian"
+   ],
+   [
+    "Berg",
+    "Sebastian"
+   ],
+   [
+    "Smith",
+    "Nathaniel J."
+   ],
+   [
+    "Kern",
+    "Robert"
+   ],
+   [
+    "Picus",
+    "Matti"
+   ],
+   [
+    "Hoyer",
+    "Stephan"
+   ],
+   [
+    "van Kerkwijk",
+    "Marten H."
+   ],
+   [
+    "Brett",
+    "Matthew"
+   ],
+   [
+    "Haldane",
+    "Allan"
+   ],
+   [
+    "del Río",
+    "Jaime Fernández"
+   ],
+   [
+    "Wiebe",
+    "Mark"
+   ],
+   [
+    "Peterson",
+    "Pearu"
+   ],
+   [
+    "Gérard-Marchant",
+    "Pierre"
+   ],
+   [
+    "Sheppard",
+    "Kevin"
+   ],
+   [
+    "Reddy",
+    "Tyler"
+   ],
+   [
+    "Weckesser",
+    "Warren"
+   ],
+   [
+    "Abbasi",
+    "Hameer"
+   ],
+   [
+    "Gohlke",
+    "Christoph"
+   ],
+   [
+    "Oliphant",
+    "Travis E."
+   ]
+  ],
+  "year": 2020,
+  "container": "Nature",
+  "short": "Nature",
+  "volume": "585",
+  "issue": "7825",
+  "page": "357-362",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Lam2015": {
+  "source": "crossref",
+  "doi": "10.1145/2833157.2833162",
+  "title": "Numba",
+  "authors": [
+   [
+    "Lam",
+    "Siu Kwan"
+   ],
+   [
+    "Pitrou",
+    "Antoine"
+   ],
+   [
+    "Seibert",
+    "Stanley"
+   ]
+  ],
+  "year": 2015,
+  "container": "Proceedings of the Second Workshop on the LLVM Compiler Infrastructure in HPC",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "1-6",
+  "article_number": "",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "verified": true
+ },
+ "Hairer1993": {
+  "source": "crossref",
+  "doi": "10.1007/978-3-540-78862-1",
+  "title": "Solving Ordinary Differential Equations I",
+  "authors": [],
+  "year": 1993,
+  "container": "Springer Series in Computational Mathematics",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "book",
+  "publisher": "Springer Berlin Heidelberg",
+  "verified": true
+ },
+ "HairerII1996": {
+  "source": "crossref",
+  "doi": "10.1007/978-3-642-05221-7",
+  "title": "Solving Ordinary Differential Equations II",
+  "authors": [
+   [
+    "Hairer",
+    "Ernst"
+   ],
+   [
+    "Wanner",
+    "Gerhard"
+   ]
+  ],
+  "year": 1996,
+  "container": "Springer Series in Computational Mathematics",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "book",
+  "publisher": "Springer Berlin Heidelberg",
+  "verified": true
+ },
+ "DP1980": {
+  "source": "crossref",
+  "doi": "10.1016/0771-050x(80)90013-3",
+  "title": "A family of embedded Runge-Kutta formulae",
+  "authors": [
+   [
+    "Dormand",
+    "J.R."
+   ],
+   [
+    "Prince",
+    "P.J."
+   ]
+  ],
+  "year": 1980,
+  "container": "Journal of Computational and Applied Mathematics",
+  "short": "Journal of Computational and Applied Mathematics",
+  "volume": "6",
+  "issue": "1",
+  "page": "19-26",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Petzold1983": {
+  "source": "crossref",
+  "doi": "10.1137/0904010",
+  "title": "Automatic Selection of Methods for Solving Stiff and Nonstiff Systems of Ordinary Differential Equations",
+  "authors": [
+   [
+    "Petzold",
+    "Linda"
+   ]
+  ],
+  "year": 1983,
+  "container": "SIAM Journal on Scientific and Statistical Computing",
+  "short": "SIAM J. Sci. and Stat. Comput.",
+  "volume": "4",
+  "issue": "1",
+  "page": "136-148",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+  "verified": true
+ },
+ "LN1989": {
+  "source": "crossref",
+  "doi": "10.1007/bf01589116",
+  "title": "On the limited memory BFGS method for large scale optimization",
+  "authors": [
+   [
+    "Liu",
+    "Dong C."
+   ],
+   [
+    "Nocedal",
+    "Jorge"
+   ]
+  ],
+  "year": 1989,
+  "container": "Mathematical Programming",
+  "short": "Mathematical Programming",
+  "volume": "45",
+  "issue": "1-3",
+  "page": "503-528",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "verified": true
+ },
+ "Kingma2014": {
+  "source": "datacite",
+  "doi": "10.48550/arxiv.1412.6980",
+  "title": "Adam: A Method for Stochastic Optimization",
+  "authors": [
+   [
+    "Kingma",
+    "Diederik P."
+   ],
+   [
+    "Ba",
+    "Jimmy"
+   ]
+  ],
+  "year": 2014,
+  "container": "arXiv",
+  "short": "",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "article_number": "",
+  "type": "Preprint",
+  "publisher": "arXiv",
+  "verified": true
+ },
+ "Killick2012": {
+  "source": "crossref",
+  "doi": "10.1080/01621459.2012.737745",
+  "title": "Optimal Detection of Changepoints With a Linear Computational Cost",
+  "authors": [
+   [
+    "Killick",
+    "R."
+   ],
+   [
+    "Fearnhead",
+    "P."
+   ],
+   [
+    "Eckley",
+    "I. A."
+   ]
+  ],
+  "year": 2012,
+  "container": "Journal of the American Statistical Association",
+  "short": "Journal of the American Statistical Association",
+  "volume": "107",
+  "issue": "500",
+  "page": "1590-1598",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Informa UK Limited",
+  "verified": true
+ },
+ "Truong2020": {
+  "source": "crossref",
+  "doi": "10.1016/j.sigpro.2019.107299",
+  "title": "Selective review of offline change point detection methods",
+  "authors": [
+   [
+    "Truong",
+    "Charles"
+   ],
+   [
+    "Oudre",
+    "Laurent"
+   ],
+   [
+    "Vayatis",
+    "Nicolas"
+   ]
+  ],
+  "year": 2020,
+  "container": "Signal Processing",
+  "short": "Signal Processing",
+  "volume": "167",
+  "issue": "",
+  "page": "107299",
+  "article_number": "107299",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "verified": true
+ },
+ "Wilcoxon1945": {
+  "source": "crossref",
+  "doi": "10.2307/3001968",
+  "title": "Individual Comparisons by Ranking Methods",
+  "authors": [
+   [
+    "Wilcoxon",
+    "Frank"
+   ]
+  ],
+  "year": 1945,
+  "container": "Biometrics Bulletin",
+  "short": "Biometrics Bulletin",
+  "volume": "1",
+  "issue": "6",
+  "page": "80",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "JSTOR",
+  "verified": true
+ },
+ "Welch1967": {
+  "source": "crossref",
+  "doi": "10.1109/tau.1967.1161901",
+  "title": "The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms",
+  "authors": [
+   [
+    "Welch",
+    "P."
+   ]
+  ],
+  "year": 1967,
+  "container": "IEEE Transactions on Audio and Electroacoustics",
+  "short": "IEEE Trans. Audio Electroacoust.",
+  "volume": "15",
+  "issue": "2",
+  "page": "70-73",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "verified": true
+ },
+ "Nadaraya1964": {
+  "source": "crossref",
+  "doi": "10.1137/1109020",
+  "title": "On Estimating Regression",
+  "authors": [
+   [
+    "Nadaraya",
+    "E. A."
+   ]
+  ],
+  "year": 1964,
+  "container": "Theory of Probability &amp; Its Applications",
+  "short": "Theory Probab. Appl.",
+  "volume": "9",
+  "issue": "1",
+  "page": "141-142",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+  "verified": true
+ },
+ "Efron1979": {
+  "source": "crossref",
+  "doi": "10.1214/aos/1176344552",
+  "title": "Bootstrap Methods: Another Look at the Jackknife",
+  "authors": [
+   [
+    "Efron",
+    "B."
+   ]
+  ],
+  "year": 1979,
+  "container": "The Annals of Statistics",
+  "short": "Ann. Statist.",
+  "volume": "7",
+  "issue": "1",
+  "page": "1-26",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Institute of Mathematical Statistics",
+  "verified": true
+ },
+ "Kendall1938": {
+  "source": "crossref",
+  "doi": "10.1093/biomet/30.1-2.81",
+  "title": "A NEW MEASURE OF RANK CORRELATION",
+  "authors": [
+   [
+    "KENDALL",
+    "M. G."
+   ]
+  ],
+  "year": 1938,
+  "container": "Biometrika",
+  "short": "Biometrika",
+  "volume": "30",
+  "issue": "1-2",
+  "page": "81-93",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Oxford University Press (OUP)",
+  "verified": true
+ },
+ "MW1947": {
+  "source": "crossref",
+  "doi": "10.1214/aoms/1177730491",
+  "title": "On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other",
+  "authors": [
+   [
+    "Mann",
+    "H. B."
+   ],
+   [
+    "Whitney",
+    "D. R."
+   ]
+  ],
+  "year": 1947,
+  "container": "The Annals of Mathematical Statistics",
+  "short": "Ann. Math. Statist.",
+  "volume": "18",
+  "issue": "1",
+  "page": "50-60",
+  "article_number": "",
+  "type": "journal-article",
+  "publisher": "Institute of Mathematical Statistics",
+  "verified": true
+ }
+}

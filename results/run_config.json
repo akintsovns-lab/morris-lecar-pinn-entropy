@@ -1,0 +1,183 @@
+{
+ "model": {
+  "C": 20.0,
+  "gCa": 4.0,
+  "gK": 8.0,
+  "gL": 2.0,
+  "VCa": 120.0,
+  "VK": -84.0,
+  "VL": -60.0,
+  "V1": -1.2,
+  "V2": 18.0,
+  "V3": 12.0,
+  "V4": 17.4,
+  "phi": 0.06666666666666667,
+  "V0": -60.0,
+  "I_range": [
+   30.0,
+   50.0
+  ],
+  "coarse_step": 0.1,
+  "fine_range": [
+   39.5,
+   40.5
+  ],
+  "fine_step": 0.01
+ },
+ "reference": {
+  "method": "DOP853",
+  "rtol": 1e-10,
+  "atol": [
+   1e-10,
+   1e-12
+  ],
+  "dt_out": 0.1,
+  "t_tr": 20000.0,
+  "T_obs": 20000.0,
+  "extend_block": 10000.0,
+  "t_max_extra": 200000.0,
+  "eq_tol_V": 1e-08,
+  "eq_tol_w": 1e-10,
+  "eq_check_len": 1000.0,
+  "cyc_rel_tol": 1e-06,
+  "cyc_n": 5,
+  "poincare_V": -10.0
+ },
+ "benchmark": {
+  "I_crit_exclusion": 0.005,
+  "pinn_currents_coarse": [
+   30.0,
+   32.0,
+   34.0,
+   36.0,
+   38.0,
+   39.0,
+   39.5,
+   41.0,
+   42.0,
+   44.0,
+   46.0,
+   48.0,
+   50.0
+  ],
+  "pinn_currents_fine": {
+   "start": 39.6,
+   "stop": 40.6,
+   "step": 0.05
+  },
+  "T_pinn": 1000.0,
+  "entropy_dt": 1.0,
+  "flat_sd_floor": 0.1,
+  "median_window": 3,
+  "smoothing": {
+   "kind": "gaussian_kernel",
+   "bandwidth": 0.05
+  },
+  "derivative": "forward_difference_between_grid_points",
+  "change_point": {
+   "kind": "least_squares_single_step"
+  }
+ },
+ "sparse": {
+  "rho_levels": [
+   0.5,
+   0.2,
+   0.1,
+   0.05
+  ],
+  "eta_levels": [
+   0.01,
+   0.05,
+   0.1
+  ],
+  "eta_rho_levels": [
+   0.2,
+   0.05
+  ],
+  "n_masks": 10,
+  "n_init_A": 5,
+  "mask_seed_base": 1000,
+  "noise_seed_base": 5000,
+  "init_seed_base": 9000,
+  "val_block_ms": 5.0,
+  "val_block_period_ms": 100.0,
+  "split_rule": {
+   "test_mod": [
+    7,
+    3
+   ],
+   "val_mod": [
+    7,
+    6
+   ]
+  }
+ },
+ "pinn": {
+  "seg_len": 50.0,
+  "overlap": 0.2,
+  "width": 20,
+  "depth": 2,
+  "n_fourier": 0,
+  "n_col_per_ms": 1.0,
+  "lam_reg": 1e-08,
+  "lam_data_min": 1.0,
+  "n_warmup": 600,
+  "n_wfit": 300,
+  "n_adam": 1500,
+  "lr": 0.003,
+  "n_lbfgs": 150,
+  "weight_every": 100,
+  "resample_every": 500,
+  "net_dtype": "float32",
+  "threads": 2
+ },
+ "entropy_defaults": {
+  "m": 2,
+  "r_frac": 0.2,
+  "d": 4,
+  "tau": 2,
+  "nperseg": 256,
+  "noverlap": 128,
+  "sd_floor": 0.1,
+  "fs": 1.0
+ },
+ "val_block_offset_ms": 47.0,
+ "spike_threshold_mV": -10.0,
+ "peak_match_window_ms": 20.0,
+ "odelsq": {
+  "w0_starts": [
+   0.02,
+   0.1,
+   0.2,
+   0.35
+  ],
+  "n_starts": 5,
+  "max_nfev": 60,
+  "rtol_fit": 1e-07,
+  "atol_fit": [
+   1e-07,
+   1e-09
+  ],
+  "bounds_V": [
+   -90.0,
+   60.0
+  ],
+  "bounds_w": [
+   0.0,
+   1.0
+  ]
+ },
+ "pinn_derived": {
+  "n_col_per_segment": 70,
+  "domain_ms": 70.0,
+  "n_segments_per_current": 20,
+  "lr_final": 0.0003,
+  "ema_alpha": 0.9,
+  "lbfgs_history": 50,
+  "adam_total_iter_dataonly": 2400,
+  "w_scale_interface": 0.1,
+  "V_res_scale_div": 10.0,
+  "n_samples_window": 10001,
+  "n_samples_entropy": 1001
+ }
+}
