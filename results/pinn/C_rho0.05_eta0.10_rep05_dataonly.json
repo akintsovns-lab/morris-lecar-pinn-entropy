@@ -1,0 +1,73 @@
+{
+ "tag": "C_rho0.05_eta0.10_rep05_dataonly",
+ "scenario": "C",
+ "rho": 0.05,
+ "eta": 0.1,
+ "rep": 5,
+ "variant": "dataonly",
+ "kind": "random",
+ "init": null,
+ "seed": 9005,
+ "Vc": -30.313046734869893,
+ "Vs": 11.60643561787583,
+ "wall_s": 39.65781831741333,
+ "n_segments": 680,
+ "pinn_cfg": {
+  "seg_len": 50.0,
+  "overlap": 0.2,
+  "width": 20,
+  "depth": 2,
+  "n_fourier": 0,
+  "n_col_per_ms": 1.0,
+  "lam_reg": 1e-08,
+  "lam_data_min": 1.0,
+  "n_warmup": 600,
+  "n_wfit": 300,
+  "n_adam": 1500,
+  "lr": 0.003,
+  "n_lbfgs": 150,
+  "weight_every": 100,
+  "resample_every": 500,
+  "net_dtype": "float32",
+  "threads": 2
+ },
+ "history": [
+  {
+   "stage": "dataonly",
+   "it": 0,
+   "data": 1.0372411869421603,
+   "t": 0.01905345916748047
+  },
+  {
+   "stage": "dataonly",
+   "it": 500,
+   "data": 0.019643384276198057,
+   "t": 8.001047134399414
+  },
+  {
+   "stage": "dataonly",
+   "it": 1000,
+   "data": 0.012060964737693768,
+   "t": 16.16903042793274
+  },
+  {
+   "stage": "dataonly",
+   "it": 1500,
+   "data": 0.010475275317964512,
+   "t": 24.44060707092285
+  },
+  {
+   "stage": "dataonly",
+   "it": 2000,
+   "data": 0.009913206675904295,
+   "t": 32.79371500015259
+  },
+  {
+   "stage": "dataonly",
+   "it": 2399,
+   "data": 0.009655793383436282,
+   "t": 39.657676696777344
+  }
+ ],
+ "sha256": "4752e8c08b92bab83da7713f7df79ac3c37f7c3fa9ab746b5fbdf9f20820206a"
+}
