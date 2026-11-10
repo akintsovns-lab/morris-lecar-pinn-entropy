@@ -1,0 +1,19 @@
+/home/user/workspace/project/results/pinn/B_rho0.05_eta0.00_rep00_odelsq.npz 292.075736284256
+/home/user/workspace/project/results/pinn/C_rho0.05_eta0.10_rep00_odelsq.npz 242.32494640350342
+/home/user/workspace/project/results/pinn/B_rho0.05_eta0.00_rep01_odelsq.npz 425.9162747859955
+/home/user/workspace/project/results/pinn/C_rho0.05_eta0.10_rep01_odelsq.npz 382.00596737861633
+/home/user/workspace/project/results/pinn/B_rho0.05_eta0.00_rep02_odelsq.npz 376.8497998714447
+/home/user/workspace/project/src/ml_model.py:31: RuntimeWarning: overflow encountered in cosh
+  return 1.0 / np.cosh((V - p["V3"]) / (2.0 * p["V4"]))
+/home/user/workspace/project/src/ml_model.py:53: RuntimeWarning: divide by zero encountered in scalar divide
+  dw = p["phi"] * (w_inf(V, p) - w) / tau_w(V, p)
+/usr/local/lib/python3.14/site-packages/scipy/integrate/_ivp/rk.py:684: RuntimeWarning: invalid value encountered in dot
+  err5 = np.dot(K.T, self.E5) / scale
+/usr/local/lib/python3.14/site-packages/scipy/integrate/_ivp/rk.py:685: RuntimeWarning: invalid value encountered in dot
+  err3 = np.dot(K.T, self.E3) / scale
+/home/user/workspace/project/results/pinn/C_rho0.05_eta0.10_rep02_odelsq.npz 341.0052592754364
+/home/user/workspace/project/results/pinn/B_rho0.05_eta0.00_rep03_odelsq.npz 350.6196858882904
+/home/user/workspace/project/results/pinn/C_rho0.05_eta0.10_rep03_odelsq.npz 380.1316969394684
+/home/user/workspace/project/results/pinn/B_rho0.05_eta0.00_rep04_odelsq.npz 356.68821597099304
+/home/user/workspace/project/results/pinn/C_rho0.05_eta0.10_rep04_odelsq.npz 330.4536612033844
+done

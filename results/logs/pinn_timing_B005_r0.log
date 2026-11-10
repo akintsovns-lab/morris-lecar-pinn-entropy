@@ -1,0 +1,12 @@
+/home/user/workspace/project/src/pinn.py:253: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:820.)
+  print(dict(stage="warmup", it=it, data=float(Ld.mean()), t=time.time() - t0), flush=True)
+{'stage': 'warmup', 'it': 0, 'data': 1.0236858803274476, 't': 0.8153274059295654}
+{'stage': 'warmup', 'it': 500, 'data': 0.006783907169201535, 't': 6.629342317581177}
+{'stage': 'wfit', 'it': 0, 'loss': 49263.67894042138, 't': 7.852427959442139, 'data': 0.003957464145299753, 'resV': 71.53370422613334, 'resw': 0.9128824509569149, 'ic': 0.9937928011490083}
+{'stage': 'adam', 'it': 0, 'loss': 15.750778780550979, 't': 22.332908868789673, 'data': 0.003957464145299753, 'resV': 0.7211749426329241, 'resw': 0.017875318028739633, 'ic': 0.5232129082198193}
+{'stage': 'adam', 'it': 500, 'loss': 0.778330157607438, 't': 47.63784146308899, 'data': 0.00017835528100845944, 'resV': 0.029397139407743737, 'resw': 0.001008783596505432, 'ic': 0.013519695802900354}
+{'stage': 'adam', 'it': 1000, 'loss': 0.40354895398839963, 't': 72.90025901794434, 'data': 8.436587669803642e-05, 'resV': 0.02023274583028365, 'resw': 0.0006435646553614018, 'ic': 0.0059223199594860935}
+{'stage': 'adam', 'it': 1499, 'loss': 0.30560812239811297, 't': 98.07719159126282, 'data': 6.106429938285755e-05, 'resV': 0.01788605191690764, 'resw': 0.0005320209355439871, 'ic': 0.004240263436442253}
+{'stage': 'lbfgs', 'it': 150, 'loss': 0.1906234335955846, 't': 111.08521866798401, 'data': 2.588962152606753e-05, 'resV': 0.014303332066230363, 'resw': 0.00043094810191399434, 'ic': 0.003577121886555561}
+/home/user/workspace/project/results/pinn/B_rho0.05_eta0.00_rep00_pinn.npz

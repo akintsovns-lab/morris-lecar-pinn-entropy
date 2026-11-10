@@ -1,0 +1,13 @@
+/home/user/workspace/project/src/pinn_param.py:146: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:820.)
+  rec = dict(stage="adam", it=it, t=time.time() - t0, **{k: float(T[:, i].mean()) for i, k in
+{'stage': 'adam', 'it': 0, 't': 78.70626020431519, 'data': 0.35655013462866625, 'resV': 0.8358208783687866, 'resw': 0.005588012150968236, 'ic': 0.03275597026210067}
+{'stage': 'adam', 'it': 500, 't': 128.53883957862854, 'data': 0.19543669729574034, 'resV': 0.42827324235453224, 'resw': 0.001869913967204987, 'ic': 0.008741355877324906}
+{'stage': 'adam', 'it': 1000, 't': 183.29382181167603, 'data': 0.1409039054968169, 'resV': 0.4181636013430746, 'resw': 0.000702983045178545, 'ic': 0.012321258221849532}
+{'stage': 'adam', 'it': 1499, 't': 243.14148688316345, 'data': 0.10249848066399532, 'resV': 0.5633835451670437, 'resw': 0.0008506527885673645, 'ic': 0.026657003878831343}
+seed 1 done 259.159907579422
+{'stage': 'adam', 'it': 0, 't': 101.92616271972656, 'data': 0.28839134291380214, 'resV': 1.3041611097157542, 'resw': 0.006747577398919097, 'ic': 0.037145169996861786}
+{'stage': 'adam', 'it': 500, 't': 157.7389054298401, 'data': 0.14928233832000476, 'resV': 0.6568329169998676, 'resw': 0.0023773590406974193, 'ic': 0.00964759892737265}
+{'stage': 'adam', 'it': 1000, 't': 211.19228148460388, 'data': 0.10621818666786371, 'resV': 0.4768766331897677, 'resw': 0.0014767666993496108, 'ic': 0.013837946668827506}
+{'stage': 'adam', 'it': 1499, 't': 266.99048137664795, 'data': 0.09354039374030972, 'resV': 0.46927266795338146, 'resw': 0.0014455738839522598, 'ic': 0.01460217435730277}
+seed 3 done 282.9900553226471
