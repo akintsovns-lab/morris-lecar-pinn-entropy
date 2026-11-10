@@ -1,0 +1,12 @@
+# Sparse-data protocol (Section 3) - reduced matrix, see DECISIONS.md D-13
+rho_levels: [0.50, 0.20, 0.10, 0.05]
+eta_levels: [0.01, 0.05, 0.10]          # >= 3 levels (eta = 0.02 dropped for budget, D-13)
+eta_rho_levels: [0.20, 0.05]            # sparsity levels crossed with noise in Scenario C
+n_masks: 10
+n_init_A: 5                              # PINN initialization seeds for Scenario A
+mask_seed_base: 1000
+noise_seed_base: 5000
+init_seed_base: 9000
+val_block_ms: 5.0                        # blocked temporal validation: one 5-ms block every 100 ms
+val_block_period_ms: 100.0
+split_rule: {test_mod: [7, 3], val_mod: [7, 6]}   # deterministic interlaced rule on sorted current list

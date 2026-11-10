@@ -1,0 +1,14 @@
+method: DOP853
+rtol: 1.0e-10
+atol: [1.0e-10, 1.0e-12]   # component-wise (V in mV, w dimensionless)
+dt_out: 0.1                # ms, dense-output grid
+t_tr: 20000.0              # ms nominal transient
+T_obs: 20000.0             # ms analysis length (long reference window)
+extend_block: 10000.0      # ms
+t_max_extra: 200000.0      # ms maximal additional integration for convergence
+eq_tol_V: 1.0e-8           # mV/ms
+eq_tol_w: 1.0e-10          # 1/ms
+eq_check_len: 1000.0       # ms
+cyc_rel_tol: 1.0e-6
+cyc_n: 5
+poincare_V: -10.0          # mV, upward crossing section

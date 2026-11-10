@@ -1,0 +1,15 @@
+# Benchmark design (fixed before Stage 5; see DECISIONS.md)
+I_crit_exclusion: 0.005           # uA/cm^2, grid currents this close to I_crit are excluded
+pinn_currents_coarse: [30.0, 32.0, 34.0, 36.0, 38.0, 39.0, 39.5, 41.0, 42.0, 44.0, 46.0, 48.0, 50.0]
+pinn_currents_fine: {start: 39.60, stop: 40.60, step: 0.05}
+T_pinn: 1000.0                    # ms, analysis/reconstruction window (shortened, see D-05)
+entropy_dt: 1.0                   # ms, common entropy sampling interval (decimation of the 0.1 ms grid)
+flat_sd_floor: 0.1                # mV; windows with SD below this are 'quiescent' (all entropies = 0), D-08
+# detection rule (identical for every signal)
+# (revised before any entropy was computed, D-10): 3-point running median in grid order ->
+# Gaussian Nadaraya-Watson smoothing (bandwidth h) evaluated at the grid currents ->
+# slopes between consecutive grid currents; I* = midpoint of the interval with max |slope|
+median_window: 3
+smoothing: {kind: gaussian_kernel, bandwidth: 0.05}   # uA/cm^2
+derivative: forward_difference_between_grid_points
+change_point: {kind: least_squares_single_step}       # exact single change-point (CUSUM-type)

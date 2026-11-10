@@ -1,0 +1,18 @@
+# PINN configuration (selected in pilot runs, frozen before the main runs; D-11, D-12, D-14)
+seg_len: 50.0          # ms, temporal segment length
+overlap: 0.2           # fraction of segment length added on each side
+width: 20
+depth: 2
+n_fourier: 0
+n_col_per_ms: 1.0      # stratified collocation density (resampled every 500 iterations)
+lam_reg: 1.0e-8
+lam_data_min: 1.0
+n_warmup: 600          # phase 1: data warm-up of the V-network
+n_wfit: 300            # phase 2: w-network fitted to residuals, V frozen
+n_adam: 1500           # phase 3: joint Adam with adaptive weights, lr 3e-3 -> 3e-4
+lr: 3.0e-3
+n_lbfgs: 150
+weight_every: 100
+resample_every: 500
+net_dtype: float32     # MLP float32, residuals/losses float64 (CPU budget, D-01)
+threads: 2

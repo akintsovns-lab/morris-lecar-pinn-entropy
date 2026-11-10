@@ -1,0 +1,18 @@
+# Morris-Lecar class-I parameter set (Revised Section 2, Table 1)
+C: 20.0        # uF/cm^2
+gCa: 4.0       # mS/cm^2
+gK: 8.0        # mS/cm^2
+gL: 2.0        # mS/cm^2
+VCa: 120.0     # mV
+VK: -84.0      # mV
+VL: -60.0      # mV
+V1: -1.2       # mV
+V2: 18.0       # mV
+V3: 12.0       # mV
+V4: 17.4       # mV
+phi: 0.0666666666666666667  # 1/15 ms^-1
+V0: -60.0      # mV, initial condition, w0 = w_inf(V0)
+I_range: [30.0, 50.0]
+coarse_step: 0.1
+fine_range: [39.5, 40.5]
+fine_step: 0.01
